@@ -49,26 +49,7 @@ namespace ACM.BL
                 _lastName = value;
             }
         }
-
-        // Retrieve one customer.
-        public Customer Retrieve(int customerId)
-        {
-            // Code that retrieves the defined customer
-            return new Customer();
-        }
-
-        public List<Customer> Retrieve()
-        {
-            // Code that retrieves all of the customers
-            return new List<Customer>();
-        }
-
-        public bool Save()
-        {
-            // Code that saves the defined customer
-            return true;
-        }
-
+               
         // Validates the customer data.
         public bool Validate()
         {

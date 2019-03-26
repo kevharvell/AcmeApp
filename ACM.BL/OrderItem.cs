@@ -14,7 +14,7 @@ namespace ACM.BL
         }
         public OrderItem(int orderItemId)
         {
-            OrderItemId = orderItemId
+            OrderItemId = orderItemId;
         }
         public int OrderItemId { get; private set; }
         public int ProductId { get; set; }

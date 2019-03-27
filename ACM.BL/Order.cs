@@ -18,16 +18,7 @@ namespace ACM.BL
         }
         public int OrderId { get; private set; }
         public DateTimeOffset? OrderDate { get; set; }
-        public Order Retrieve(int orderId)
-        {
-            // Code to retrieve defined Product by name
-            return new Order();
-        }
-        public bool Save()
-        {
-            // Code that saves defined product
-            return true;
-        }
+        
         // Validates the product data.
         public bool Validate()
         {

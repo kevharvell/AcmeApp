@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ACM.BL
 {
-    class ProductRepository
+    public class ProductRepository
     {
         // Retrieve one customer.
         public Product Retrieve(int productId)
@@ -19,7 +19,7 @@ namespace ACM.BL
 
             // Temporary hard-coded values to return
             // a populated product
-            if (productId == 1)
+            if (productId == 2)
             {
                 product.ProductName = "Widget";
                 product.ProductDescription = "widgety widgy widget";

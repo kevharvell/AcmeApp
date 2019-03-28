@@ -16,7 +16,7 @@ namespace ACM.BLTest
             {
                 OrderDate = new DateTimeOffset(2018, 3, 27, 0, 0, 0,
                                                new TimeSpan(7, 0, 0))
-        };
+            };
 
             // Act
             var actual = orderRepository.Retrieve(10);
@@ -25,5 +25,5 @@ namespace ACM.BLTest
             Assert.AreEqual(expected.OrderDate, actual.OrderDate);
         }
     }
-    }
+    
 }

@@ -10,3 +10,6 @@ C:\Users\kharvell\Desktop\CS\Csharp\AcmeApp\ACM.BL\obj\Debug\ACM.BL.dll
 C:\Users\kharvell\Desktop\CS\Csharp\AcmeApp\ACM.BL\obj\Debug\ACM.BL.pdb
 C:\Users\kharvell\Desktop\CS\Csharp\AcmeApp\ACM.BL\bin\Debug\ACM.BL.dll
 C:\Users\kharvell\Desktop\CS\Csharp\AcmeApp\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\Kev\Desktop\CS\CSharp\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\Users\Kev\Desktop\CS\CSharp\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete

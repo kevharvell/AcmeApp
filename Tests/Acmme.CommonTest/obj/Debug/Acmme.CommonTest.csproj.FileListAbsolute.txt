@@ -1,0 +1,16 @@
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Acmme.CommonTest.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Acmme.CommonTest.pdb
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Acme.Common.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Acme.Common.pdb
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\obj\Debug\Acmme.CommonTest.csprojAssemblyReference.cache
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\obj\Debug\Acmme.CommonTest.csproj.CoreCompileInputs.cache
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\obj\Debug\Acmme.CommonTest.csproj.CopyComplete
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\obj\Debug\Acmme.CommonTest.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\obj\Debug\Acmme.CommonTest.pdb

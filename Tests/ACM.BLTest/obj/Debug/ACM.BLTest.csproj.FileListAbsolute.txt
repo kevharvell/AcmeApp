@@ -30,3 +30,5 @@ C:\Users\kharvell\Desktop\CS\Csharp\AcmeApp\Tests\ACM.BLTest\obj\Debug\ACM.BLTes
 C:\Users\kharvell\Desktop\CS\Csharp\AcmeApp\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
 C:\Users\kharvell\Desktop\CS\Csharp\AcmeApp\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
 C:\Users\kharvell\Desktop\CS\Csharp\AcmeApp\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\ACM.BLTest\bin\Debug\Acme.Common.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\ACM.BLTest\bin\Debug\Acme.Common.pdb

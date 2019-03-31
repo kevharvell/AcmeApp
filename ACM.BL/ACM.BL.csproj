@@ -53,5 +53,11 @@
     <Compile Include="ProductRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Acme.Common\Acme.Common.csproj">
+      <Project>{21fd48c3-e1c0-4538-848f-cea814f71c51}</Project>
+      <Name>Acme.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -14,3 +14,5 @@ C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Acme.Common.
 C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\ACM.BL.dll
+C:\Users\Kev\Desktop\CS\CSharp\ACM\Tests\Acmme.CommonTest\bin\Debug\ACM.BL.pdb
